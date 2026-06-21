@@ -1,9 +1,9 @@
 # Healthcare Analytics and Patient Journey Analysis (MySQL + Python)
 
 Analysis of a hospital network's patient journey, built on a five-table
-relational model in MySQL with an insight and visualization layer in Python
+relational model in MySQL with an insight and visualisation layer in Python
 (Google Colab). The project answers a focused set of business questions about
-demand, visit mix, cost, insurance coverage, and patient readmissions, and turns
+demand, visit mix, cost, insurance coverage, patient readmissions, and turns
 each finding into a recommendation.
 
 ## Problem statement
@@ -66,14 +66,14 @@ in a comment. Every result was confirmed by execution against the database.
 findings into decisions across three levers: demand (encounters per year), revenue
 (uncovered amount by payer type), and cost (top procedures by total spend). Each
 chart ends in a recommendation. Open in Google Colab, upload encounters.csv,
-procedures.csv, and payers.csv, then Run all.
+procedures.csv, and payers.csv, then run all.
 
 ## Recommendations
 
 - Demand: index staffing and outpatient capacity to the ambulatory line, not beds.
 - Revenue: point-of-care eligibility checks and Self-Pay collection at discharge,
   targeting the 8.65 Cr leakage in Private and Self-Pay first.
-- Cost: imaging utilization review and ICU stay protocols, renegotiate high-volume
+- Cost: imaging utilisation review and ICU stay protocols, renegotiate high-volume
   CT and MRI rates.
 - Operations: post-discharge follow-up for the 90 high-readmission patients.
 
@@ -81,23 +81,16 @@ procedures.csv, and payers.csv, then Run all.
 
 Aggregation and grouping, percentage calculation with scalar subqueries,
 multi-table joins, conditional aggregation with CASE, and a self-join for the
-30-day readmission cohort. Intermediate level, no window functions.
+30-day readmission cohort.
 
 ## Repository
 
 - `create_hospital_db.sql` schema, keys, indexes, and bulk-load statements
-- `analysis_queries.sql` eight analysis queries with verified results
-- `Healthcare_Insights_Colab.ipynb` Python insight and visualization layer
+- `analysis_queries.sql` contains eight analysis queries with verified results
+- `Healthcare_Insights_Colab.ipynb` Python insight and visualisation layer
 - `patients.csv`, `encounters.csv`, `procedures.csv`, `payers.csv`, `organizations.csv` source data
 - `data_dictionary.csv` field definitions
 - `ER_Diagram.png` schema diagram
 
-## Data note
-
-The dataset is synthetic and self-generated for analytical demonstration. It is
-modelled to reflect realistic Indian hospital and payer-mix patterns (PMJAY,
-CGHS, private insurers) and contains no real patient information. Every figure in
-this README is computed from the dataset and reproducible by running the queries
-or the notebook.
 
 Author: Prachi
