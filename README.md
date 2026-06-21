@@ -1,4 +1,4 @@
-# Healthcare Analytics and Patient Journey Analysis (MySQL + Python)
+# Healthcare Analytics and Patient Journey Analysis
 
 Analysis of a hospital network's patient journey, built on a five-table
 relational model in MySQL with an insight and visualisation layer in Python
