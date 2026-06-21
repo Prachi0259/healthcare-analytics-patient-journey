@@ -1,0 +1,1001 @@
+patient_id,gender,birth_date,city,state,marital_status
+PT0001,Female,1948-09-03,Gurugram,Haryana,Single
+PT0002,Female,1975-06-22,Faridabad,Haryana,Married
+PT0003,Male,1965-04-02,Patna,Bihar,Married
+PT0004,Male,1978-08-24,Noida,Uttar Pradesh,Married
+PT0005,Female,1980-08-14,Noida,Uttar Pradesh,Single
+PT0006,Male,1992-11-15,Ghaziabad,Uttar Pradesh,Married
+PT0007,Female,1968-10-05,Gurugram,Haryana,Single
+PT0008,Male,1994-03-22,Faridabad,Haryana,Single
+PT0009,Male,1963-09-22,New Delhi,Delhi,Married
+PT0010,Male,1955-10-06,Gurugram,Haryana,Married
+PT0011,Female,1969-04-14,Patna,Bihar,Married
+PT0012,Male,1982-10-06,Ghaziabad,Uttar Pradesh,Married
+PT0013,Male,1967-12-27,Faridabad,Haryana,Married
+PT0014,Male,1983-07-25,Faridabad,Haryana,Single
+PT0015,Male,1958-12-11,Faridabad,Haryana,Single
+PT0016,Female,2013-01-27,Faridabad,Haryana,Widowed
+PT0017,Female,1983-07-13,Patna,Bihar,Single
+PT0018,Female,2016-05-22,Gurugram,Haryana,Married
+PT0019,Male,2006-03-30,Ghaziabad,Uttar Pradesh,Married
+PT0020,Male,1949-12-03,Noida,Uttar Pradesh,Married
+PT0021,Female,1959-07-21,Patna,Bihar,Single
+PT0022,Male,1991-06-08,Noida,Uttar Pradesh,Married
+PT0023,Female,2007-10-22,New Delhi,Delhi,Widowed
+PT0024,Female,2024-03-17,Ghaziabad,Uttar Pradesh,Single
+PT0025,Male,1987-11-04,Faridabad,Haryana,Married
+PT0026,Female,1928-09-08,Patna,Bihar,Widowed
+PT0027,Female,1968-07-27,Noida,Uttar Pradesh,Married
+PT0028,Male,1988-08-28,Faridabad,Haryana,Married
+PT0029,Female,1967-04-04,Patna,Bihar,Married
+PT0030,Female,2008-12-10,Noida,Uttar Pradesh,Single
+PT0031,Male,1982-05-02,Noida,Uttar Pradesh,Single
+PT0032,Male,1975-10-23,New Delhi,Delhi,Single
+PT0033,Female,1978-03-27,Gurugram,Haryana,Single
+PT0034,Male,1961-11-11,Patna,Bihar,Married
+PT0035,Male,1970-08-30,Ghaziabad,Uttar Pradesh,Married
+PT0036,Male,1963-01-14,Gurugram,Haryana,Married
+PT0037,Female,1990-03-24,Ghaziabad,Uttar Pradesh,Married
+PT0038,Female,1959-03-24,Faridabad,Haryana,Married
+PT0039,Female,1944-04-29,New Delhi,Delhi,Widowed
+PT0040,Male,1996-12-30,Patna,Bihar,Married
+PT0041,Female,1994-02-08,Gurugram,Haryana,Married
+PT0042,Male,1950-06-26,Faridabad,Haryana,Single
+PT0043,Male,1980-11-04,Faridabad,Haryana,Married
+PT0044,Male,1948-08-18,Noida,Uttar Pradesh,Married
+PT0045,Female,1985-04-06,Gurugram,Haryana,Single
+PT0046,Female,1947-02-21,Ghaziabad,Uttar Pradesh,Married
+PT0047,Female,1974-05-08,Noida,Uttar Pradesh,Married
+PT0048,Female,1971-08-07,Ghaziabad,Uttar Pradesh,Single
+PT0049,Male,1945-01-13,Faridabad,Haryana,Married
+PT0050,Male,1984-11-26,Faridabad,Haryana,Married
+PT0051,Female,1995-10-07,Faridabad,Haryana,Single
+PT0052,Female,1985-09-18,New Delhi,Delhi,Married
+PT0053,Male,1967-05-27,Noida,Uttar Pradesh,Married
+PT0054,Female,2008-09-22,Noida,Uttar Pradesh,Married
+PT0055,Female,1964-01-27,Noida,Uttar Pradesh,Married
+PT0056,Male,1987-10-11,Gurugram,Haryana,Married
+PT0057,Female,1954-03-20,Patna,Bihar,Married
+PT0058,Female,2024-05-12,Gurugram,Haryana,Single
+PT0059,Male,1992-10-02,Faridabad,Haryana,Married
+PT0060,Female,2010-02-26,Faridabad,Haryana,Married
+PT0061,Female,1993-11-26,Ghaziabad,Uttar Pradesh,Married
+PT0062,Female,1972-05-20,Faridabad,Haryana,Widowed
+PT0063,Male,1980-11-23,Noida,Uttar Pradesh,Single
+PT0064,Female,1982-04-11,Ghaziabad,Uttar Pradesh,Single
+PT0065,Female,1980-12-15,Noida,Uttar Pradesh,Married
+PT0066,Male,1972-03-07,New Delhi,Delhi,Married
+PT0067,Male,1997-09-11,Ghaziabad,Uttar Pradesh,Married
+PT0068,Male,1962-07-02,Noida,Uttar Pradesh,Single
+PT0069,Male,1963-01-16,Gurugram,Haryana,Single
+PT0070,Female,1969-02-02,Noida,Uttar Pradesh,Married
+PT0071,Female,1965-03-17,Faridabad,Haryana,Widowed
+PT0072,Female,1971-10-25,New Delhi,Delhi,Single
+PT0073,Male,1936-11-04,Noida,Uttar Pradesh,Single
+PT0074,Male,1978-01-07,Gurugram,Haryana,Widowed
+PT0075,Male,1983-10-12,Faridabad,Haryana,Single
+PT0076,Male,1992-11-27,Noida,Uttar Pradesh,Single
+PT0077,Female,1997-05-27,New Delhi,Delhi,Single
+PT0078,Male,2001-08-15,New Delhi,Delhi,Single
+PT0079,Female,1994-10-18,Patna,Bihar,Single
+PT0080,Female,1978-09-01,Faridabad,Haryana,Married
+PT0081,Female,1970-07-19,Ghaziabad,Uttar Pradesh,Married
+PT0082,Male,1975-10-13,Noida,Uttar Pradesh,Married
+PT0083,Female,1992-07-19,Gurugram,Haryana,Married
+PT0084,Male,1958-08-27,Faridabad,Haryana,Widowed
+PT0085,Female,1962-02-19,Patna,Bihar,Married
+PT0086,Female,1980-12-13,Faridabad,Haryana,Single
+PT0087,Male,1990-04-08,Gurugram,Haryana,Married
+PT0088,Female,1966-02-12,New Delhi,Delhi,Married
+PT0089,Male,1973-03-17,Faridabad,Haryana,Widowed
+PT0090,Female,2005-10-09,Faridabad,Haryana,Single
+PT0091,Female,1978-08-19,Noida,Uttar Pradesh,Married
+PT0092,Male,1971-04-05,Faridabad,Haryana,Single
+PT0093,Female,1994-09-10,Ghaziabad,Uttar Pradesh,Single
+PT0094,Male,1973-10-20,Noida,Uttar Pradesh,Married
+PT0095,Female,2006-11-16,Ghaziabad,Uttar Pradesh,Single
+PT0096,Female,1950-11-11,New Delhi,Delhi,Married
+PT0097,Male,1952-03-04,New Delhi,Delhi,Married
+PT0098,Male,1982-11-01,Faridabad,Haryana,Married
+PT0099,Male,1969-12-10,Patna,Bihar,Married
+PT0100,Female,2024-01-05,Gurugram,Haryana,Married
+PT0101,Female,2000-11-30,Faridabad,Haryana,Single
+PT0102,Female,1982-03-25,New Delhi,Delhi,Married
+PT0103,Male,1998-01-24,Faridabad,Haryana,Married
+PT0104,Male,1962-04-16,Gurugram,Haryana,Married
+PT0105,Male,1937-08-01,Faridabad,Haryana,Married
+PT0106,Male,2000-03-16,Faridabad,Haryana,Single
+PT0107,Female,1993-04-25,Faridabad,Haryana,Single
+PT0108,Male,1972-09-02,Patna,Bihar,Single
+PT0109,Male,1944-10-17,Noida,Uttar Pradesh,Single
+PT0110,Female,2001-09-11,Faridabad,Haryana,Married
+PT0111,Male,1972-01-07,New Delhi,Delhi,Married
+PT0112,Female,1940-06-07,Faridabad,Haryana,Married
+PT0113,Male,2010-11-06,Patna,Bihar,Single
+PT0114,Female,2002-05-19,Noida,Uttar Pradesh,Single
+PT0115,Male,1985-05-24,Patna,Bihar,Married
+PT0116,Male,1987-12-05,Patna,Bihar,Married
+PT0117,Female,1960-09-02,Gurugram,Haryana,Married
+PT0118,Female,1972-07-24,Gurugram,Haryana,Married
+PT0119,Male,2012-12-18,New Delhi,Delhi,Married
+PT0120,Female,1966-03-30,Gurugram,Haryana,Widowed
+PT0121,Female,1988-01-27,Noida,Uttar Pradesh,Married
+PT0122,Female,1951-07-06,Faridabad,Haryana,Married
+PT0123,Male,1989-08-05,Patna,Bihar,Widowed
+PT0124,Male,1989-06-27,Noida,Uttar Pradesh,Married
+PT0125,Male,1966-01-13,Ghaziabad,Uttar Pradesh,Married
+PT0126,Male,1961-01-15,Patna,Bihar,Married
+PT0127,Male,1968-05-31,Gurugram,Haryana,Single
+PT0128,Female,2011-01-01,Faridabad,Haryana,Married
+PT0129,Male,1966-10-15,Patna,Bihar,Widowed
+PT0130,Male,1997-06-07,Patna,Bihar,Single
+PT0131,Female,1972-10-21,Patna,Bihar,Married
+PT0132,Female,2005-09-04,Patna,Bihar,Married
+PT0133,Male,1968-10-01,Gurugram,Haryana,Single
+PT0134,Female,1993-02-05,Patna,Bihar,Widowed
+PT0135,Male,2002-03-13,Faridabad,Haryana,Married
+PT0136,Male,1962-10-12,New Delhi,Delhi,Married
+PT0137,Female,1972-04-01,Patna,Bihar,Married
+PT0138,Female,1989-01-04,Gurugram,Haryana,Single
+PT0139,Male,1947-08-08,Noida,Uttar Pradesh,Married
+PT0140,Female,1985-01-26,Noida,Uttar Pradesh,Married
+PT0141,Female,1976-01-24,Ghaziabad,Uttar Pradesh,Widowed
+PT0142,Female,1971-07-25,New Delhi,Delhi,Single
+PT0143,Male,1989-01-16,New Delhi,Delhi,Married
+PT0144,Female,1967-09-25,Noida,Uttar Pradesh,Married
+PT0145,Male,1987-06-05,Ghaziabad,Uttar Pradesh,Single
+PT0146,Male,1985-05-14,Ghaziabad,Uttar Pradesh,Married
+PT0147,Male,1949-06-23,Gurugram,Haryana,Single
+PT0148,Male,1997-11-16,New Delhi,Delhi,Married
+PT0149,Female,2024-11-23,Faridabad,Haryana,Married
+PT0150,Male,1944-03-29,Gurugram,Haryana,Married
+PT0151,Male,1926-09-30,Ghaziabad,Uttar Pradesh,Married
+PT0152,Male,1985-05-07,New Delhi,Delhi,Married
+PT0153,Female,2015-03-14,Ghaziabad,Uttar Pradesh,Married
+PT0154,Female,1983-12-25,New Delhi,Delhi,Married
+PT0155,Male,1982-04-30,Noida,Uttar Pradesh,Single
+PT0156,Female,1980-07-23,Patna,Bihar,Married
+PT0157,Female,1999-06-15,Gurugram,Haryana,Married
+PT0158,Male,1965-10-28,Patna,Bihar,Married
+PT0159,Female,1966-03-12,Patna,Bihar,Married
+PT0160,Female,2006-05-06,Faridabad,Haryana,Married
+PT0161,Male,1963-06-11,Ghaziabad,Uttar Pradesh,Married
+PT0162,Male,1935-09-14,Patna,Bihar,Married
+PT0163,Female,1973-11-24,Noida,Uttar Pradesh,Married
+PT0164,Male,1983-08-26,Noida,Uttar Pradesh,Single
+PT0165,Female,1979-10-03,Noida,Uttar Pradesh,Single
+PT0166,Female,1964-05-23,Faridabad,Haryana,Married
+PT0167,Female,2011-02-20,New Delhi,Delhi,Married
+PT0168,Male,1973-07-12,New Delhi,Delhi,Married
+PT0169,Male,1984-06-05,Noida,Uttar Pradesh,Married
+PT0170,Female,1940-07-18,Gurugram,Haryana,Widowed
+PT0171,Female,1980-07-25,Gurugram,Haryana,Married
+PT0172,Female,1943-10-20,Gurugram,Haryana,Widowed
+PT0173,Female,1999-06-30,Faridabad,Haryana,Widowed
+PT0174,Female,1965-12-28,Faridabad,Haryana,Widowed
+PT0175,Male,1970-10-24,Faridabad,Haryana,Single
+PT0176,Female,1994-06-15,Noida,Uttar Pradesh,Married
+PT0177,Female,1973-07-10,Faridabad,Haryana,Married
+PT0178,Female,1952-08-01,Gurugram,Haryana,Married
+PT0179,Female,1983-04-20,Ghaziabad,Uttar Pradesh,Married
+PT0180,Male,2010-04-10,Patna,Bihar,Married
+PT0181,Female,1977-01-28,Ghaziabad,Uttar Pradesh,Married
+PT0182,Male,1995-01-13,Gurugram,Haryana,Married
+PT0183,Female,1983-04-11,Noida,Uttar Pradesh,Single
+PT0184,Male,1978-07-16,Faridabad,Haryana,Single
+PT0185,Female,2011-05-07,Noida,Uttar Pradesh,Married
+PT0186,Female,2009-08-16,Noida,Uttar Pradesh,Widowed
+PT0187,Female,1967-11-17,Gurugram,Haryana,Widowed
+PT0188,Male,1987-09-29,Noida,Uttar Pradesh,Married
+PT0189,Male,2024-05-01,New Delhi,Delhi,Married
+PT0190,Male,1961-04-30,New Delhi,Delhi,Single
+PT0191,Male,1971-11-11,Faridabad,Haryana,Single
+PT0192,Female,1991-09-19,Patna,Bihar,Single
+PT0193,Female,2003-12-20,Patna,Bihar,Single
+PT0194,Male,1960-07-22,Noida,Uttar Pradesh,Single
+PT0195,Male,1970-04-25,Ghaziabad,Uttar Pradesh,Married
+PT0196,Female,1929-07-07,Gurugram,Haryana,Married
+PT0197,Male,1968-06-17,Noida,Uttar Pradesh,Married
+PT0198,Male,1969-09-19,Gurugram,Haryana,Married
+PT0199,Male,1980-09-24,Noida,Uttar Pradesh,Married
+PT0200,Male,1960-09-20,Ghaziabad,Uttar Pradesh,Single
+PT0201,Male,1964-03-29,Noida,Uttar Pradesh,Married
+PT0202,Male,1951-11-23,Ghaziabad,Uttar Pradesh,Married
+PT0203,Male,1987-03-28,Noida,Uttar Pradesh,Married
+PT0204,Female,1985-03-12,Faridabad,Haryana,Married
+PT0205,Male,1986-05-16,Noida,Uttar Pradesh,Married
+PT0206,Male,1961-06-27,New Delhi,Delhi,Single
+PT0207,Male,1947-03-03,Faridabad,Haryana,Married
+PT0208,Female,1986-01-23,Ghaziabad,Uttar Pradesh,Married
+PT0209,Female,1985-03-27,New Delhi,Delhi,Widowed
+PT0210,Female,1970-03-20,Faridabad,Haryana,Married
+PT0211,Female,1981-08-21,New Delhi,Delhi,Married
+PT0212,Male,1957-07-23,Faridabad,Haryana,Widowed
+PT0213,Male,2022-10-24,Faridabad,Haryana,Single
+PT0214,Male,1993-12-27,Noida,Uttar Pradesh,Married
+PT0215,Male,1992-11-06,Faridabad,Haryana,Married
+PT0216,Male,2023-01-10,New Delhi,Delhi,Widowed
+PT0217,Male,1996-01-07,Gurugram,Haryana,Married
+PT0218,Male,1995-09-26,Gurugram,Haryana,Widowed
+PT0219,Female,1981-04-10,Noida,Uttar Pradesh,Married
+PT0220,Male,1954-07-02,Ghaziabad,Uttar Pradesh,Single
+PT0221,Male,1981-11-03,Gurugram,Haryana,Single
+PT0222,Male,1997-07-22,Noida,Uttar Pradesh,Married
+PT0223,Male,1978-02-03,Faridabad,Haryana,Married
+PT0224,Male,1956-01-10,New Delhi,Delhi,Married
+PT0225,Female,1996-06-09,Faridabad,Haryana,Married
+PT0226,Female,1995-10-20,New Delhi,Delhi,Married
+PT0227,Male,1965-07-01,Faridabad,Haryana,Single
+PT0228,Male,1981-08-25,Patna,Bihar,Married
+PT0229,Female,1964-11-25,Patna,Bihar,Married
+PT0230,Female,1977-02-24,New Delhi,Delhi,Married
+PT0231,Male,1962-04-06,Noida,Uttar Pradesh,Married
+PT0232,Male,1997-12-18,Ghaziabad,Uttar Pradesh,Single
+PT0233,Female,1977-08-29,Gurugram,Haryana,Widowed
+PT0234,Female,1981-11-15,Faridabad,Haryana,Single
+PT0235,Female,2001-08-03,Noida,Uttar Pradesh,Married
+PT0236,Male,2008-04-15,Faridabad,Haryana,Married
+PT0237,Male,1963-03-06,Patna,Bihar,Married
+PT0238,Male,1984-06-20,Noida,Uttar Pradesh,Widowed
+PT0239,Male,1997-05-26,New Delhi,Delhi,Married
+PT0240,Male,1978-09-27,Patna,Bihar,Married
+PT0241,Male,1954-03-07,Gurugram,Haryana,Married
+PT0242,Male,2022-12-21,Patna,Bihar,Married
+PT0243,Male,2006-01-09,Gurugram,Haryana,Married
+PT0244,Male,1995-08-31,Patna,Bihar,Married
+PT0245,Female,1947-09-17,Patna,Bihar,Widowed
+PT0246,Male,1971-03-31,Gurugram,Haryana,Married
+PT0247,Female,1961-01-26,Faridabad,Haryana,Single
+PT0248,Female,1999-09-09,Noida,Uttar Pradesh,Single
+PT0249,Female,1999-11-01,Faridabad,Haryana,Single
+PT0250,Male,1968-07-26,Gurugram,Haryana,Widowed
+PT0251,Female,1975-07-06,New Delhi,Delhi,Single
+PT0252,Male,1966-11-28,Noida,Uttar Pradesh,Single
+PT0253,Female,1980-11-13,New Delhi,Delhi,Single
+PT0254,Female,1971-12-20,New Delhi,Delhi,Single
+PT0255,Male,1973-08-27,Patna,Bihar,Married
+PT0256,Male,1961-11-27,Gurugram,Haryana,Married
+PT0257,Male,1960-07-16,Faridabad,Haryana,Married
+PT0258,Female,2009-09-27,Gurugram,Haryana,Married
+PT0259,Male,2021-02-21,New Delhi,Delhi,Married
+PT0260,Male,1956-02-09,Patna,Bihar,Married
+PT0261,Male,1953-07-15,Faridabad,Haryana,Married
+PT0262,Male,1997-09-30,New Delhi,Delhi,Married
+PT0263,Female,2014-06-14,New Delhi,Delhi,Married
+PT0264,Female,1975-08-04,Ghaziabad,Uttar Pradesh,Single
+PT0265,Female,1958-07-04,Ghaziabad,Uttar Pradesh,Married
+PT0266,Female,1941-01-13,Patna,Bihar,Married
+PT0267,Female,1966-10-11,Noida,Uttar Pradesh,Married
+PT0268,Female,1984-03-08,Noida,Uttar Pradesh,Married
+PT0269,Female,1994-08-26,Patna,Bihar,Married
+PT0270,Female,1976-06-09,Patna,Bihar,Single
+PT0271,Female,1982-12-28,New Delhi,Delhi,Married
+PT0272,Female,1997-12-08,Gurugram,Haryana,Married
+PT0273,Female,1936-08-08,Gurugram,Haryana,Married
+PT0274,Male,1941-01-24,Ghaziabad,Uttar Pradesh,Married
+PT0275,Male,1954-09-02,Noida,Uttar Pradesh,Married
+PT0276,Male,1995-04-14,Noida,Uttar Pradesh,Widowed
+PT0277,Female,1959-03-29,Noida,Uttar Pradesh,Married
+PT0278,Female,1964-07-18,Faridabad,Haryana,Married
+PT0279,Female,1968-02-08,Gurugram,Haryana,Widowed
+PT0280,Male,1952-11-20,Gurugram,Haryana,Married
+PT0281,Male,1964-04-26,New Delhi,Delhi,Married
+PT0282,Female,1962-07-20,Noida,Uttar Pradesh,Married
+PT0283,Male,1964-07-10,Faridabad,Haryana,Married
+PT0284,Female,1970-04-19,Noida,Uttar Pradesh,Married
+PT0285,Male,2012-05-31,Noida,Uttar Pradesh,Widowed
+PT0286,Female,1975-05-07,Ghaziabad,Uttar Pradesh,Single
+PT0287,Male,1988-07-06,Gurugram,Haryana,Married
+PT0288,Female,2002-11-13,Patna,Bihar,Married
+PT0289,Male,1943-03-02,Patna,Bihar,Married
+PT0290,Male,1942-12-10,Noida,Uttar Pradesh,Married
+PT0291,Female,1949-04-22,Faridabad,Haryana,Married
+PT0292,Male,1971-09-28,New Delhi,Delhi,Married
+PT0293,Male,1949-01-02,Ghaziabad,Uttar Pradesh,Married
+PT0294,Female,1976-03-25,New Delhi,Delhi,Married
+PT0295,Female,1972-11-17,Patna,Bihar,Married
+PT0296,Male,1998-02-03,Patna,Bihar,Single
+PT0297,Male,1969-06-19,Ghaziabad,Uttar Pradesh,Married
+PT0298,Female,1975-01-06,Noida,Uttar Pradesh,Married
+PT0299,Male,2003-04-19,New Delhi,Delhi,Single
+PT0300,Female,1978-04-02,Gurugram,Haryana,Single
+PT0301,Female,1978-01-28,Noida,Uttar Pradesh,Single
+PT0302,Female,1941-05-23,Faridabad,Haryana,Married
+PT0303,Male,1959-11-26,Gurugram,Haryana,Single
+PT0304,Female,1976-06-11,Ghaziabad,Uttar Pradesh,Married
+PT0305,Male,1972-12-24,Patna,Bihar,Single
+PT0306,Male,1976-10-24,Gurugram,Haryana,Married
+PT0307,Female,1981-07-05,New Delhi,Delhi,Married
+PT0308,Male,1998-02-11,Patna,Bihar,Widowed
+PT0309,Female,1980-11-01,New Delhi,Delhi,Married
+PT0310,Male,1991-04-18,Gurugram,Haryana,Married
+PT0311,Male,2002-12-06,Patna,Bihar,Married
+PT0312,Female,1966-04-11,Faridabad,Haryana,Widowed
+PT0313,Male,1969-09-09,Gurugram,Haryana,Married
+PT0314,Male,2012-03-30,New Delhi,Delhi,Married
+PT0315,Male,1979-03-20,New Delhi,Delhi,Married
+PT0316,Female,1957-06-25,Patna,Bihar,Widowed
+PT0317,Male,1955-03-06,Faridabad,Haryana,Married
+PT0318,Male,1956-12-03,Faridabad,Haryana,Married
+PT0319,Female,1976-09-22,Ghaziabad,Uttar Pradesh,Married
+PT0320,Female,1993-10-30,Faridabad,Haryana,Married
+PT0321,Male,1998-01-19,New Delhi,Delhi,Married
+PT0322,Male,1970-12-08,Gurugram,Haryana,Widowed
+PT0323,Male,1969-09-03,Patna,Bihar,Married
+PT0324,Male,1951-10-17,Ghaziabad,Uttar Pradesh,Married
+PT0325,Female,1955-11-06,Ghaziabad,Uttar Pradesh,Married
+PT0326,Male,1979-08-17,New Delhi,Delhi,Single
+PT0327,Male,2001-10-17,New Delhi,Delhi,Married
+PT0328,Male,1983-02-19,Gurugram,Haryana,Married
+PT0329,Female,1972-04-21,Gurugram,Haryana,Married
+PT0330,Female,1981-12-07,Patna,Bihar,Married
+PT0331,Female,1988-01-05,Patna,Bihar,Married
+PT0332,Male,1971-02-21,Noida,Uttar Pradesh,Married
+PT0333,Male,1987-06-17,New Delhi,Delhi,Married
+PT0334,Male,1989-02-24,Faridabad,Haryana,Single
+PT0335,Male,1970-02-12,Noida,Uttar Pradesh,Widowed
+PT0336,Male,1985-07-07,Faridabad,Haryana,Single
+PT0337,Male,1972-01-22,Ghaziabad,Uttar Pradesh,Single
+PT0338,Female,1971-12-14,New Delhi,Delhi,Single
+PT0339,Male,1999-03-29,New Delhi,Delhi,Married
+PT0340,Female,1986-09-27,Ghaziabad,Uttar Pradesh,Married
+PT0341,Male,1948-07-28,Patna,Bihar,Married
+PT0342,Male,2000-09-03,New Delhi,Delhi,Married
+PT0343,Female,2019-03-13,Patna,Bihar,Married
+PT0344,Female,2014-02-17,Patna,Bihar,Single
+PT0345,Male,1976-11-26,Ghaziabad,Uttar Pradesh,Married
+PT0346,Male,1976-10-06,New Delhi,Delhi,Single
+PT0347,Male,1979-10-29,Ghaziabad,Uttar Pradesh,Single
+PT0348,Male,1952-01-06,Ghaziabad,Uttar Pradesh,Married
+PT0349,Male,2024-08-28,New Delhi,Delhi,Married
+PT0350,Female,1969-04-01,Gurugram,Haryana,Widowed
+PT0351,Male,1945-01-12,Patna,Bihar,Married
+PT0352,Female,1999-09-29,Gurugram,Haryana,Married
+PT0353,Female,1984-10-12,New Delhi,Delhi,Single
+PT0354,Female,1992-03-17,Noida,Uttar Pradesh,Married
+PT0355,Male,1994-06-23,Ghaziabad,Uttar Pradesh,Married
+PT0356,Female,1983-06-13,Ghaziabad,Uttar Pradesh,Single
+PT0357,Male,1948-02-04,Gurugram,Haryana,Married
+PT0358,Male,1940-01-11,Ghaziabad,Uttar Pradesh,Married
+PT0359,Female,1983-08-12,Gurugram,Haryana,Married
+PT0360,Female,1938-10-07,Faridabad,Haryana,Married
+PT0361,Female,1976-11-26,Ghaziabad,Uttar Pradesh,Married
+PT0362,Female,1941-10-21,Ghaziabad,Uttar Pradesh,Single
+PT0363,Female,1978-11-24,New Delhi,Delhi,Single
+PT0364,Female,1974-12-07,Ghaziabad,Uttar Pradesh,Single
+PT0365,Female,1969-02-10,Gurugram,Haryana,Married
+PT0366,Female,1926-04-14,Patna,Bihar,Widowed
+PT0367,Female,1959-12-11,Noida,Uttar Pradesh,Married
+PT0368,Female,1991-06-01,New Delhi,Delhi,Widowed
+PT0369,Male,1957-07-04,Gurugram,Haryana,Married
+PT0370,Male,1984-11-03,Faridabad,Haryana,Married
+PT0371,Male,1986-12-11,Noida,Uttar Pradesh,Married
+PT0372,Female,1958-12-15,Patna,Bihar,Single
+PT0373,Female,1976-05-19,Noida,Uttar Pradesh,Single
+PT0374,Female,1971-04-14,Noida,Uttar Pradesh,Married
+PT0375,Male,1976-12-22,Ghaziabad,Uttar Pradesh,Married
+PT0376,Female,1970-05-25,Gurugram,Haryana,Single
+PT0377,Male,1968-06-12,Faridabad,Haryana,Married
+PT0378,Male,2015-04-29,Faridabad,Haryana,Single
+PT0379,Female,1963-02-07,Noida,Uttar Pradesh,Married
+PT0380,Male,1996-03-04,New Delhi,Delhi,Married
+PT0381,Female,2005-03-02,Gurugram,Haryana,Married
+PT0382,Male,1978-02-20,Ghaziabad,Uttar Pradesh,Married
+PT0383,Male,1975-03-22,Ghaziabad,Uttar Pradesh,Married
+PT0384,Female,1990-11-10,New Delhi,Delhi,Married
+PT0385,Male,1960-01-07,Gurugram,Haryana,Married
+PT0386,Female,2003-10-08,Gurugram,Haryana,Married
+PT0387,Female,1985-03-02,Gurugram,Haryana,Married
+PT0388,Female,1988-03-25,Faridabad,Haryana,Widowed
+PT0389,Male,1977-10-25,Ghaziabad,Uttar Pradesh,Widowed
+PT0390,Female,1971-08-08,Gurugram,Haryana,Married
+PT0391,Male,1997-01-05,Faridabad,Haryana,Single
+PT0392,Male,1962-06-14,New Delhi,Delhi,Married
+PT0393,Female,1975-05-18,Noida,Uttar Pradesh,Single
+PT0394,Male,2014-04-27,Patna,Bihar,Married
+PT0395,Female,2016-05-27,Faridabad,Haryana,Married
+PT0396,Female,1977-01-23,Ghaziabad,Uttar Pradesh,Married
+PT0397,Male,1981-04-27,Gurugram,Haryana,Married
+PT0398,Male,1979-08-01,New Delhi,Delhi,Single
+PT0399,Male,1977-08-23,New Delhi,Delhi,Married
+PT0400,Male,1972-11-08,New Delhi,Delhi,Married
+PT0401,Male,1958-08-09,Ghaziabad,Uttar Pradesh,Single
+PT0402,Female,1999-06-10,Faridabad,Haryana,Married
+PT0403,Female,2000-01-15,New Delhi,Delhi,Single
+PT0404,Female,1998-02-02,Ghaziabad,Uttar Pradesh,Single
+PT0405,Female,1971-05-21,Noida,Uttar Pradesh,Married
+PT0406,Female,1952-05-12,Patna,Bihar,Married
+PT0407,Male,1985-10-30,Noida,Uttar Pradesh,Married
+PT0408,Male,2024-03-21,Gurugram,Haryana,Married
+PT0409,Male,2012-01-01,Ghaziabad,Uttar Pradesh,Married
+PT0410,Female,1993-07-26,Gurugram,Haryana,Married
+PT0411,Male,1988-12-14,New Delhi,Delhi,Married
+PT0412,Male,1985-01-12,New Delhi,Delhi,Married
+PT0413,Female,1976-10-04,New Delhi,Delhi,Widowed
+PT0414,Male,1983-07-03,Gurugram,Haryana,Single
+PT0415,Male,1956-01-04,Gurugram,Haryana,Married
+PT0416,Male,1990-12-23,Faridabad,Haryana,Married
+PT0417,Female,1994-05-22,Ghaziabad,Uttar Pradesh,Married
+PT0418,Female,1967-04-29,Gurugram,Haryana,Married
+PT0419,Male,2007-07-12,New Delhi,Delhi,Single
+PT0420,Female,1969-12-17,Patna,Bihar,Married
+PT0421,Female,1974-05-06,Ghaziabad,Uttar Pradesh,Single
+PT0422,Female,1979-06-12,Faridabad,Haryana,Married
+PT0423,Female,1945-09-28,Faridabad,Haryana,Married
+PT0424,Female,1989-04-22,Patna,Bihar,Married
+PT0425,Male,1935-09-19,Noida,Uttar Pradesh,Married
+PT0426,Male,1981-03-02,New Delhi,Delhi,Married
+PT0427,Male,2002-02-19,Ghaziabad,Uttar Pradesh,Married
+PT0428,Male,1975-09-01,Faridabad,Haryana,Single
+PT0429,Female,1998-05-14,Gurugram,Haryana,Married
+PT0430,Male,1992-02-10,Faridabad,Haryana,Single
+PT0431,Male,1969-07-04,Gurugram,Haryana,Widowed
+PT0432,Female,1965-11-30,Faridabad,Haryana,Married
+PT0433,Male,1989-03-02,Faridabad,Haryana,Single
+PT0434,Male,1957-05-03,Gurugram,Haryana,Married
+PT0435,Male,1953-07-17,Noida,Uttar Pradesh,Single
+PT0436,Male,1948-05-21,Gurugram,Haryana,Single
+PT0437,Male,1966-01-30,Patna,Bihar,Single
+PT0438,Male,1949-03-08,Ghaziabad,Uttar Pradesh,Married
+PT0439,Female,2014-09-14,Gurugram,Haryana,Single
+PT0440,Female,1983-10-21,Noida,Uttar Pradesh,Single
+PT0441,Male,1994-02-04,Ghaziabad,Uttar Pradesh,Widowed
+PT0442,Female,1974-01-16,New Delhi,Delhi,Married
+PT0443,Male,1988-04-15,Gurugram,Haryana,Married
+PT0444,Male,1980-06-10,Noida,Uttar Pradesh,Married
+PT0445,Female,1939-06-01,Patna,Bihar,Single
+PT0446,Female,1980-07-03,Patna,Bihar,Married
+PT0447,Male,1968-10-04,New Delhi,Delhi,Single
+PT0448,Male,1981-07-16,Ghaziabad,Uttar Pradesh,Single
+PT0449,Female,1975-03-06,Patna,Bihar,Single
+PT0450,Male,1976-03-29,New Delhi,Delhi,Single
+PT0451,Female,1968-08-30,Ghaziabad,Uttar Pradesh,Single
+PT0452,Female,1953-04-10,Ghaziabad,Uttar Pradesh,Widowed
+PT0453,Female,1944-10-28,Noida,Uttar Pradesh,Single
+PT0454,Male,1970-08-01,Gurugram,Haryana,Widowed
+PT0455,Female,1965-10-17,Patna,Bihar,Married
+PT0456,Male,2000-08-10,Patna,Bihar,Single
+PT0457,Male,1978-04-25,Gurugram,Haryana,Married
+PT0458,Male,1958-08-10,Patna,Bihar,Single
+PT0459,Male,1959-08-12,Ghaziabad,Uttar Pradesh,Married
+PT0460,Male,1972-02-09,Gurugram,Haryana,Married
+PT0461,Male,1959-06-09,Faridabad,Haryana,Married
+PT0462,Female,1967-07-22,Gurugram,Haryana,Married
+PT0463,Female,1952-11-17,Faridabad,Haryana,Single
+PT0464,Male,1971-07-13,Noida,Uttar Pradesh,Single
+PT0465,Male,1984-06-02,Gurugram,Haryana,Married
+PT0466,Male,1970-02-24,Ghaziabad,Uttar Pradesh,Single
+PT0467,Female,2024-08-22,Gurugram,Haryana,Married
+PT0468,Female,1969-10-06,Patna,Bihar,Widowed
+PT0469,Female,2024-08-12,New Delhi,Delhi,Widowed
+PT0470,Female,2011-08-15,Ghaziabad,Uttar Pradesh,Married
+PT0471,Male,1967-03-15,Faridabad,Haryana,Married
+PT0472,Female,1967-03-08,Faridabad,Haryana,Single
+PT0473,Male,2000-04-30,Noida,Uttar Pradesh,Single
+PT0474,Female,1991-06-21,Noida,Uttar Pradesh,Married
+PT0475,Male,1949-06-30,Patna,Bihar,Married
+PT0476,Female,1986-02-10,Faridabad,Haryana,Widowed
+PT0477,Male,1932-12-05,Ghaziabad,Uttar Pradesh,Married
+PT0478,Female,1977-10-03,Gurugram,Haryana,Married
+PT0479,Female,1968-09-01,Patna,Bihar,Married
+PT0480,Female,1944-07-01,Gurugram,Haryana,Married
+PT0481,Male,1974-01-30,New Delhi,Delhi,Married
+PT0482,Male,1997-03-13,Faridabad,Haryana,Single
+PT0483,Male,1979-02-28,New Delhi,Delhi,Married
+PT0484,Female,1977-03-21,Faridabad,Haryana,Married
+PT0485,Female,2004-04-17,Noida,Uttar Pradesh,Married
+PT0486,Male,1982-09-14,New Delhi,Delhi,Married
+PT0487,Female,1991-03-16,Noida,Uttar Pradesh,Single
+PT0488,Female,1958-10-27,Patna,Bihar,Married
+PT0489,Male,1976-09-12,Faridabad,Haryana,Single
+PT0490,Male,1982-02-27,Patna,Bihar,Single
+PT0491,Male,1979-10-29,Ghaziabad,Uttar Pradesh,Married
+PT0492,Male,1972-10-17,Ghaziabad,Uttar Pradesh,Married
+PT0493,Female,1964-12-19,Faridabad,Haryana,Married
+PT0494,Female,1996-04-11,Patna,Bihar,Single
+PT0495,Female,1997-02-05,New Delhi,Delhi,Single
+PT0496,Female,1954-02-18,Noida,Uttar Pradesh,Single
+PT0497,Male,1985-04-02,Gurugram,Haryana,Married
+PT0498,Male,2005-01-31,Noida,Uttar Pradesh,Widowed
+PT0499,Female,1968-06-30,Ghaziabad,Uttar Pradesh,Single
+PT0500,Female,1967-07-23,Noida,Uttar Pradesh,Married
+PT0501,Female,2007-09-14,Gurugram,Haryana,Married
+PT0502,Female,1972-03-15,Patna,Bihar,Married
+PT0503,Female,1962-05-07,Ghaziabad,Uttar Pradesh,Married
+PT0504,Male,1969-05-10,Ghaziabad,Uttar Pradesh,Married
+PT0505,Female,1964-03-19,New Delhi,Delhi,Married
+PT0506,Male,2005-11-25,Noida,Uttar Pradesh,Single
+PT0507,Female,1970-10-06,Patna,Bihar,Widowed
+PT0508,Male,1983-04-26,New Delhi,Delhi,Single
+PT0509,Female,1986-04-18,New Delhi,Delhi,Widowed
+PT0510,Female,1959-12-05,New Delhi,Delhi,Married
+PT0511,Male,1947-06-23,Ghaziabad,Uttar Pradesh,Single
+PT0512,Female,1941-05-18,Faridabad,Haryana,Widowed
+PT0513,Male,1950-12-29,Ghaziabad,Uttar Pradesh,Married
+PT0514,Male,1979-07-06,Faridabad,Haryana,Married
+PT0515,Female,1969-05-13,Ghaziabad,Uttar Pradesh,Married
+PT0516,Male,1961-09-03,Gurugram,Haryana,Married
+PT0517,Female,1974-10-20,Ghaziabad,Uttar Pradesh,Married
+PT0518,Male,1974-02-17,Gurugram,Haryana,Married
+PT0519,Female,1960-06-24,Noida,Uttar Pradesh,Married
+PT0520,Female,1978-09-20,Patna,Bihar,Married
+PT0521,Male,1991-04-30,Noida,Uttar Pradesh,Widowed
+PT0522,Female,1985-04-29,Gurugram,Haryana,Single
+PT0523,Male,1964-12-11,New Delhi,Delhi,Single
+PT0524,Female,1976-07-15,Faridabad,Haryana,Married
+PT0525,Male,1970-02-21,New Delhi,Delhi,Single
+PT0526,Female,1963-07-21,New Delhi,Delhi,Single
+PT0527,Male,1984-01-19,Ghaziabad,Uttar Pradesh,Married
+PT0528,Male,1961-05-09,Gurugram,Haryana,Single
+PT0529,Male,1969-08-16,Ghaziabad,Uttar Pradesh,Married
+PT0530,Male,2001-07-27,Ghaziabad,Uttar Pradesh,Married
+PT0531,Male,1948-02-12,Patna,Bihar,Single
+PT0532,Male,1987-10-09,Gurugram,Haryana,Married
+PT0533,Female,2010-09-22,Gurugram,Haryana,Married
+PT0534,Female,1997-07-28,New Delhi,Delhi,Widowed
+PT0535,Male,1997-07-16,Patna,Bihar,Single
+PT0536,Male,1975-05-05,Gurugram,Haryana,Married
+PT0537,Male,1982-04-27,Noida,Uttar Pradesh,Married
+PT0538,Male,1983-06-24,Gurugram,Haryana,Married
+PT0539,Female,1964-02-28,Patna,Bihar,Widowed
+PT0540,Male,1970-08-05,Gurugram,Haryana,Single
+PT0541,Male,1970-02-10,Faridabad,Haryana,Married
+PT0542,Male,1968-07-17,Gurugram,Haryana,Married
+PT0543,Male,1964-11-18,New Delhi,Delhi,Married
+PT0544,Male,2019-09-23,New Delhi,Delhi,Married
+PT0545,Female,1984-10-21,Faridabad,Haryana,Married
+PT0546,Female,2020-11-27,Gurugram,Haryana,Married
+PT0547,Female,1976-08-04,Noida,Uttar Pradesh,Married
+PT0548,Male,1977-12-24,Patna,Bihar,Married
+PT0549,Female,1956-02-13,Patna,Bihar,Married
+PT0550,Female,1953-01-08,Faridabad,Haryana,Married
+PT0551,Male,1972-08-10,Faridabad,Haryana,Single
+PT0552,Male,1987-01-11,Noida,Uttar Pradesh,Married
+PT0553,Male,1967-07-26,Faridabad,Haryana,Widowed
+PT0554,Male,1987-01-27,New Delhi,Delhi,Single
+PT0555,Male,1977-09-14,Ghaziabad,Uttar Pradesh,Widowed
+PT0556,Female,1957-01-13,Patna,Bihar,Single
+PT0557,Female,1988-02-17,Faridabad,Haryana,Single
+PT0558,Male,1960-11-07,Ghaziabad,Uttar Pradesh,Married
+PT0559,Female,1963-03-07,Faridabad,Haryana,Married
+PT0560,Female,1996-10-03,Ghaziabad,Uttar Pradesh,Widowed
+PT0561,Male,1957-06-13,Patna,Bihar,Single
+PT0562,Male,1963-12-30,Gurugram,Haryana,Married
+PT0563,Female,1974-09-30,Noida,Uttar Pradesh,Married
+PT0564,Female,1992-04-26,New Delhi,Delhi,Married
+PT0565,Female,1994-06-05,Ghaziabad,Uttar Pradesh,Single
+PT0566,Female,1987-10-18,New Delhi,Delhi,Married
+PT0567,Male,1966-04-07,New Delhi,Delhi,Married
+PT0568,Male,1996-09-05,New Delhi,Delhi,Widowed
+PT0569,Female,1968-03-02,Patna,Bihar,Married
+PT0570,Male,2001-10-12,Patna,Bihar,Married
+PT0571,Female,1981-11-17,Ghaziabad,Uttar Pradesh,Widowed
+PT0572,Female,1974-09-05,Noida,Uttar Pradesh,Married
+PT0573,Male,1928-11-27,New Delhi,Delhi,Single
+PT0574,Female,2004-03-23,Gurugram,Haryana,Married
+PT0575,Male,1947-04-25,Gurugram,Haryana,Married
+PT0576,Female,1974-11-05,Noida,Uttar Pradesh,Single
+PT0577,Male,1968-05-06,Ghaziabad,Uttar Pradesh,Married
+PT0578,Male,1974-01-13,Patna,Bihar,Married
+PT0579,Male,1968-08-30,Ghaziabad,Uttar Pradesh,Married
+PT0580,Male,1980-09-06,Gurugram,Haryana,Married
+PT0581,Male,1947-10-21,Gurugram,Haryana,Widowed
+PT0582,Male,1986-05-09,Ghaziabad,Uttar Pradesh,Single
+PT0583,Female,1954-10-23,Gurugram,Haryana,Single
+PT0584,Female,1989-05-08,Gurugram,Haryana,Married
+PT0585,Male,1978-03-05,Noida,Uttar Pradesh,Married
+PT0586,Male,1998-09-22,Ghaziabad,Uttar Pradesh,Married
+PT0587,Female,1967-07-04,Faridabad,Haryana,Married
+PT0588,Female,1948-12-09,Gurugram,Haryana,Single
+PT0589,Male,1978-01-28,Ghaziabad,Uttar Pradesh,Married
+PT0590,Female,1980-03-07,Ghaziabad,Uttar Pradesh,Married
+PT0591,Male,1999-03-06,Faridabad,Haryana,Widowed
+PT0592,Male,1981-05-07,Ghaziabad,Uttar Pradesh,Single
+PT0593,Male,2008-05-12,New Delhi,Delhi,Single
+PT0594,Male,1995-05-30,Ghaziabad,Uttar Pradesh,Single
+PT0595,Male,1972-05-06,New Delhi,Delhi,Married
+PT0596,Female,1950-05-31,Faridabad,Haryana,Married
+PT0597,Female,1926-09-08,Patna,Bihar,Single
+PT0598,Male,1988-02-11,Faridabad,Haryana,Single
+PT0599,Male,1948-03-26,Patna,Bihar,Married
+PT0600,Male,1972-01-20,Patna,Bihar,Married
+PT0601,Male,1980-08-26,Patna,Bihar,Married
+PT0602,Male,1968-04-05,Faridabad,Haryana,Married
+PT0603,Female,1975-08-12,Faridabad,Haryana,Married
+PT0604,Male,1974-09-26,Gurugram,Haryana,Single
+PT0605,Male,1985-08-17,Faridabad,Haryana,Married
+PT0606,Female,2004-12-08,Patna,Bihar,Single
+PT0607,Male,2007-04-15,New Delhi,Delhi,Married
+PT0608,Female,1963-05-21,Patna,Bihar,Married
+PT0609,Female,1982-10-07,Ghaziabad,Uttar Pradesh,Married
+PT0610,Female,1988-01-29,Ghaziabad,Uttar Pradesh,Widowed
+PT0611,Female,1976-10-28,Ghaziabad,Uttar Pradesh,Single
+PT0612,Male,1961-07-17,Noida,Uttar Pradesh,Single
+PT0613,Female,1973-07-07,Faridabad,Haryana,Single
+PT0614,Female,1990-11-27,Noida,Uttar Pradesh,Married
+PT0615,Male,1952-07-16,Faridabad,Haryana,Married
+PT0616,Male,1945-05-21,Patna,Bihar,Married
+PT0617,Male,1967-03-15,New Delhi,Delhi,Single
+PT0618,Male,1957-07-24,New Delhi,Delhi,Married
+PT0619,Male,1952-02-02,Gurugram,Haryana,Single
+PT0620,Male,1954-08-05,Gurugram,Haryana,Married
+PT0621,Female,1964-06-21,Noida,Uttar Pradesh,Single
+PT0622,Female,1965-01-15,Noida,Uttar Pradesh,Single
+PT0623,Female,1966-05-06,Gurugram,Haryana,Married
+PT0624,Male,1998-08-31,Noida,Uttar Pradesh,Married
+PT0625,Female,1962-10-11,Patna,Bihar,Single
+PT0626,Female,2004-11-20,New Delhi,Delhi,Married
+PT0627,Male,1992-01-27,Noida,Uttar Pradesh,Married
+PT0628,Female,1950-10-19,Noida,Uttar Pradesh,Single
+PT0629,Female,1960-10-31,Patna,Bihar,Widowed
+PT0630,Male,1947-02-01,Noida,Uttar Pradesh,Married
+PT0631,Male,1982-09-27,Faridabad,Haryana,Married
+PT0632,Male,2000-12-01,New Delhi,Delhi,Widowed
+PT0633,Female,1981-10-13,Noida,Uttar Pradesh,Single
+PT0634,Female,1974-10-22,Noida,Uttar Pradesh,Single
+PT0635,Female,1975-06-04,New Delhi,Delhi,Married
+PT0636,Female,1954-09-03,Faridabad,Haryana,Married
+PT0637,Female,1984-04-27,New Delhi,Delhi,Single
+PT0638,Male,1969-09-30,New Delhi,Delhi,Single
+PT0639,Female,1996-11-06,Faridabad,Haryana,Married
+PT0640,Male,1967-11-04,Ghaziabad,Uttar Pradesh,Married
+PT0641,Male,1976-01-31,Faridabad,Haryana,Married
+PT0642,Male,1991-09-02,Ghaziabad,Uttar Pradesh,Married
+PT0643,Male,1981-09-23,Ghaziabad,Uttar Pradesh,Single
+PT0644,Female,1980-06-17,Noida,Uttar Pradesh,Married
+PT0645,Male,1982-10-08,Faridabad,Haryana,Married
+PT0646,Female,1941-02-07,New Delhi,Delhi,Single
+PT0647,Male,1978-06-07,Noida,Uttar Pradesh,Single
+PT0648,Male,1981-02-28,Patna,Bihar,Married
+PT0649,Female,2018-05-29,Ghaziabad,Uttar Pradesh,Married
+PT0650,Female,1994-10-30,Ghaziabad,Uttar Pradesh,Single
+PT0651,Female,1982-12-20,Noida,Uttar Pradesh,Single
+PT0652,Male,1990-04-08,Patna,Bihar,Married
+PT0653,Male,1949-11-02,New Delhi,Delhi,Married
+PT0654,Male,1980-05-27,Faridabad,Haryana,Married
+PT0655,Male,1951-12-16,Patna,Bihar,Single
+PT0656,Male,1975-12-07,Patna,Bihar,Widowed
+PT0657,Male,1976-11-18,Faridabad,Haryana,Single
+PT0658,Female,1978-01-15,Patna,Bihar,Single
+PT0659,Male,1976-10-08,Gurugram,Haryana,Married
+PT0660,Female,1942-11-27,New Delhi,Delhi,Widowed
+PT0661,Female,2023-05-06,New Delhi,Delhi,Widowed
+PT0662,Female,2017-05-01,Faridabad,Haryana,Married
+PT0663,Male,1987-11-16,Gurugram,Haryana,Married
+PT0664,Male,1976-02-19,New Delhi,Delhi,Widowed
+PT0665,Male,1963-03-30,Patna,Bihar,Married
+PT0666,Male,1967-09-30,Faridabad,Haryana,Married
+PT0667,Female,1984-01-24,Patna,Bihar,Married
+PT0668,Male,1956-04-10,Ghaziabad,Uttar Pradesh,Married
+PT0669,Female,1956-05-24,Ghaziabad,Uttar Pradesh,Single
+PT0670,Female,1973-12-23,Gurugram,Haryana,Married
+PT0671,Male,1957-09-30,Ghaziabad,Uttar Pradesh,Married
+PT0672,Female,1971-06-13,Patna,Bihar,Single
+PT0673,Female,1988-09-09,Patna,Bihar,Single
+PT0674,Female,1963-01-30,Gurugram,Haryana,Married
+PT0675,Male,1974-12-01,Patna,Bihar,Married
+PT0676,Male,1976-12-30,Faridabad,Haryana,Married
+PT0677,Female,1947-10-30,Patna,Bihar,Married
+PT0678,Male,2024-04-20,Gurugram,Haryana,Single
+PT0679,Male,2005-10-01,Patna,Bihar,Married
+PT0680,Male,2000-08-24,Ghaziabad,Uttar Pradesh,Married
+PT0681,Female,1984-06-18,Faridabad,Haryana,Single
+PT0682,Male,1982-03-11,Gurugram,Haryana,Single
+PT0683,Male,2007-01-08,Ghaziabad,Uttar Pradesh,Single
+PT0684,Male,1996-04-28,Ghaziabad,Uttar Pradesh,Married
+PT0685,Female,1994-10-07,New Delhi,Delhi,Married
+PT0686,Male,1927-11-22,Faridabad,Haryana,Married
+PT0687,Male,1940-07-21,Noida,Uttar Pradesh,Married
+PT0688,Male,1985-01-18,Patna,Bihar,Single
+PT0689,Female,1984-01-21,Noida,Uttar Pradesh,Married
+PT0690,Male,1999-06-10,Faridabad,Haryana,Married
+PT0691,Female,2015-09-15,Ghaziabad,Uttar Pradesh,Single
+PT0692,Male,1979-08-28,Faridabad,Haryana,Widowed
+PT0693,Male,1996-06-28,Ghaziabad,Uttar Pradesh,Married
+PT0694,Male,1978-06-14,Ghaziabad,Uttar Pradesh,Single
+PT0695,Male,2009-11-30,Gurugram,Haryana,Married
+PT0696,Male,1992-11-24,New Delhi,Delhi,Married
+PT0697,Male,1974-11-05,Faridabad,Haryana,Married
+PT0698,Male,1969-04-22,Patna,Bihar,Married
+PT0699,Female,1968-07-02,Gurugram,Haryana,Widowed
+PT0700,Male,2003-10-25,Gurugram,Haryana,Widowed
+PT0701,Female,1959-09-09,Patna,Bihar,Single
+PT0702,Female,1993-05-29,Patna,Bihar,Single
+PT0703,Female,1964-10-27,New Delhi,Delhi,Married
+PT0704,Male,1977-07-09,New Delhi,Delhi,Single
+PT0705,Male,2004-07-11,Gurugram,Haryana,Married
+PT0706,Male,1983-12-20,Patna,Bihar,Single
+PT0707,Male,1969-12-21,Gurugram,Haryana,Married
+PT0708,Male,1964-05-16,Patna,Bihar,Married
+PT0709,Female,1979-05-20,Noida,Uttar Pradesh,Married
+PT0710,Male,1946-04-14,Noida,Uttar Pradesh,Widowed
+PT0711,Male,1956-08-18,Faridabad,Haryana,Married
+PT0712,Male,1982-03-31,Patna,Bihar,Widowed
+PT0713,Male,1961-07-12,Faridabad,Haryana,Widowed
+PT0714,Female,1938-09-07,Faridabad,Haryana,Married
+PT0715,Male,1937-01-30,Ghaziabad,Uttar Pradesh,Married
+PT0716,Male,2001-12-10,Faridabad,Haryana,Widowed
+PT0717,Female,1995-03-13,Patna,Bihar,Married
+PT0718,Male,1947-01-25,Noida,Uttar Pradesh,Married
+PT0719,Male,1998-10-23,New Delhi,Delhi,Married
+PT0720,Male,2003-04-07,Patna,Bihar,Married
+PT0721,Female,1986-01-12,Gurugram,Haryana,Single
+PT0722,Female,1968-07-26,Ghaziabad,Uttar Pradesh,Single
+PT0723,Female,1979-01-26,Ghaziabad,Uttar Pradesh,Married
+PT0724,Male,1990-08-06,Gurugram,Haryana,Widowed
+PT0725,Male,1990-07-09,Faridabad,Haryana,Married
+PT0726,Male,1991-09-23,Gurugram,Haryana,Married
+PT0727,Female,1994-09-02,Faridabad,Haryana,Married
+PT0728,Female,1931-06-24,Gurugram,Haryana,Married
+PT0729,Male,1971-04-06,Noida,Uttar Pradesh,Married
+PT0730,Male,1959-03-08,Patna,Bihar,Single
+PT0731,Female,1986-03-05,Faridabad,Haryana,Single
+PT0732,Male,1980-03-16,Noida,Uttar Pradesh,Married
+PT0733,Male,1991-06-24,Ghaziabad,Uttar Pradesh,Married
+PT0734,Male,2024-11-19,Faridabad,Haryana,Married
+PT0735,Male,2004-06-08,New Delhi,Delhi,Single
+PT0736,Female,2013-06-11,Faridabad,Haryana,Married
+PT0737,Female,2021-10-28,Faridabad,Haryana,Married
+PT0738,Male,2000-08-27,Noida,Uttar Pradesh,Married
+PT0739,Female,1950-06-01,Faridabad,Haryana,Married
+PT0740,Male,1977-04-23,Ghaziabad,Uttar Pradesh,Single
+PT0741,Female,1951-06-23,Faridabad,Haryana,Married
+PT0742,Male,1968-12-18,Faridabad,Haryana,Married
+PT0743,Female,1961-05-23,Patna,Bihar,Married
+PT0744,Female,1995-12-29,New Delhi,Delhi,Married
+PT0745,Female,1966-11-12,Faridabad,Haryana,Married
+PT0746,Male,1962-02-19,Noida,Uttar Pradesh,Single
+PT0747,Female,1988-01-14,Patna,Bihar,Married
+PT0748,Male,1965-06-15,New Delhi,Delhi,Married
+PT0749,Female,1965-08-10,New Delhi,Delhi,Married
+PT0750,Female,1987-04-21,Gurugram,Haryana,Widowed
+PT0751,Male,1999-02-25,Ghaziabad,Uttar Pradesh,Single
+PT0752,Female,2000-12-04,Gurugram,Haryana,Married
+PT0753,Female,1975-06-23,Gurugram,Haryana,Single
+PT0754,Female,1970-03-03,Ghaziabad,Uttar Pradesh,Single
+PT0755,Male,1992-08-03,Patna,Bihar,Married
+PT0756,Male,1976-06-26,Noida,Uttar Pradesh,Single
+PT0757,Female,1965-01-02,Faridabad,Haryana,Married
+PT0758,Male,1964-11-13,Noida,Uttar Pradesh,Married
+PT0759,Female,1945-07-27,Gurugram,Haryana,Married
+PT0760,Female,1951-05-20,Faridabad,Haryana,Single
+PT0761,Female,1997-07-03,New Delhi,Delhi,Married
+PT0762,Male,1943-08-30,Patna,Bihar,Married
+PT0763,Female,1987-04-29,Ghaziabad,Uttar Pradesh,Widowed
+PT0764,Female,1956-11-30,Ghaziabad,Uttar Pradesh,Married
+PT0765,Female,1975-10-28,Noida,Uttar Pradesh,Married
+PT0766,Male,1985-06-12,Faridabad,Haryana,Married
+PT0767,Male,2013-01-05,Patna,Bihar,Married
+PT0768,Female,1980-09-02,Noida,Uttar Pradesh,Married
+PT0769,Male,2008-03-29,Gurugram,Haryana,Married
+PT0770,Female,1957-10-25,Noida,Uttar Pradesh,Married
+PT0771,Female,1946-12-25,Patna,Bihar,Married
+PT0772,Female,1992-04-28,Ghaziabad,Uttar Pradesh,Single
+PT0773,Male,1970-03-11,Gurugram,Haryana,Married
+PT0774,Female,1991-06-11,Faridabad,Haryana,Single
+PT0775,Female,1989-09-16,Ghaziabad,Uttar Pradesh,Married
+PT0776,Female,1961-01-24,Ghaziabad,Uttar Pradesh,Married
+PT0777,Male,1977-07-13,Noida,Uttar Pradesh,Married
+PT0778,Female,1942-03-19,Gurugram,Haryana,Single
+PT0779,Male,1986-12-07,New Delhi,Delhi,Married
+PT0780,Female,1957-05-20,Ghaziabad,Uttar Pradesh,Married
+PT0781,Female,1975-07-02,Ghaziabad,Uttar Pradesh,Married
+PT0782,Female,1961-07-22,Patna,Bihar,Married
+PT0783,Female,1985-03-13,Gurugram,Haryana,Widowed
+PT0784,Female,1977-03-06,Gurugram,Haryana,Married
+PT0785,Female,1979-08-30,Noida,Uttar Pradesh,Married
+PT0786,Female,1993-04-19,Patna,Bihar,Single
+PT0787,Female,1963-10-14,Gurugram,Haryana,Married
+PT0788,Male,1963-04-30,Faridabad,Haryana,Married
+PT0789,Female,1965-01-04,Patna,Bihar,Married
+PT0790,Male,1947-01-01,Gurugram,Haryana,Single
+PT0791,Female,1948-10-08,Gurugram,Haryana,Married
+PT0792,Female,1984-04-14,Noida,Uttar Pradesh,Married
+PT0793,Male,1969-01-12,Faridabad,Haryana,Single
+PT0794,Female,1989-06-07,Faridabad,Haryana,Married
+PT0795,Female,1976-04-04,Noida,Uttar Pradesh,Single
+PT0796,Male,1988-07-03,New Delhi,Delhi,Widowed
+PT0797,Female,1944-05-26,Ghaziabad,Uttar Pradesh,Widowed
+PT0798,Female,1969-04-18,Noida,Uttar Pradesh,Single
+PT0799,Male,1981-02-01,New Delhi,Delhi,Married
+PT0800,Female,1953-05-24,Noida,Uttar Pradesh,Married
+PT0801,Male,2020-05-23,Gurugram,Haryana,Married
+PT0802,Male,2017-02-19,New Delhi,Delhi,Married
+PT0803,Male,1961-04-29,Patna,Bihar,Single
+PT0804,Male,1975-11-23,Ghaziabad,Uttar Pradesh,Married
+PT0805,Male,1971-01-09,Faridabad,Haryana,Married
+PT0806,Female,2003-12-26,Faridabad,Haryana,Single
+PT0807,Female,1977-05-25,Patna,Bihar,Married
+PT0808,Male,1936-10-09,Gurugram,Haryana,Single
+PT0809,Female,1960-04-08,Noida,Uttar Pradesh,Married
+PT0810,Male,1973-06-17,Ghaziabad,Uttar Pradesh,Married
+PT0811,Female,1985-08-01,Gurugram,Haryana,Married
+PT0812,Female,1984-07-09,Ghaziabad,Uttar Pradesh,Single
+PT0813,Male,2019-05-10,Faridabad,Haryana,Married
+PT0814,Male,1971-06-14,New Delhi,Delhi,Single
+PT0815,Female,1960-01-24,Faridabad,Haryana,Single
+PT0816,Female,2008-07-03,Ghaziabad,Uttar Pradesh,Single
+PT0817,Female,1990-05-26,Gurugram,Haryana,Married
+PT0818,Female,2000-07-01,Gurugram,Haryana,Single
+PT0819,Male,1996-03-20,Patna,Bihar,Single
+PT0820,Male,1975-02-21,Ghaziabad,Uttar Pradesh,Single
+PT0821,Male,2018-01-02,Gurugram,Haryana,Married
+PT0822,Male,1964-11-10,Patna,Bihar,Married
+PT0823,Male,1961-11-11,Gurugram,Haryana,Single
+PT0824,Male,1982-03-08,Patna,Bihar,Single
+PT0825,Male,2024-05-17,Patna,Bihar,Single
+PT0826,Female,1996-03-17,Gurugram,Haryana,Single
+PT0827,Male,1952-01-04,Faridabad,Haryana,Single
+PT0828,Male,2024-08-11,Ghaziabad,Uttar Pradesh,Single
+PT0829,Female,1983-12-10,Ghaziabad,Uttar Pradesh,Married
+PT0830,Male,2000-09-03,Gurugram,Haryana,Widowed
+PT0831,Female,1960-06-07,New Delhi,Delhi,Widowed
+PT0832,Male,1990-02-18,New Delhi,Delhi,Married
+PT0833,Male,1968-09-26,Noida,Uttar Pradesh,Married
+PT0834,Female,1965-11-15,Gurugram,Haryana,Married
+PT0835,Male,1940-07-02,Ghaziabad,Uttar Pradesh,Married
+PT0836,Male,1981-11-10,Faridabad,Haryana,Single
+PT0837,Female,1969-08-09,Faridabad,Haryana,Single
+PT0838,Female,2006-09-04,New Delhi,Delhi,Single
+PT0839,Male,1953-07-25,Gurugram,Haryana,Married
+PT0840,Female,1992-08-20,Ghaziabad,Uttar Pradesh,Single
+PT0841,Male,1988-10-03,New Delhi,Delhi,Single
+PT0842,Female,1977-09-22,Patna,Bihar,Married
+PT0843,Female,2008-03-23,Ghaziabad,Uttar Pradesh,Single
+PT0844,Male,1972-02-12,Gurugram,Haryana,Married
+PT0845,Female,1957-04-01,Gurugram,Haryana,Married
+PT0846,Female,1971-01-14,Gurugram,Haryana,Married
+PT0847,Male,2008-06-07,Gurugram,Haryana,Single
+PT0848,Female,1979-03-07,Gurugram,Haryana,Married
+PT0849,Female,1962-04-16,Faridabad,Haryana,Married
+PT0850,Male,2014-12-21,Patna,Bihar,Single
+PT0851,Male,1998-09-22,Ghaziabad,Uttar Pradesh,Married
+PT0852,Female,1959-08-27,Faridabad,Haryana,Married
+PT0853,Male,1971-01-22,Ghaziabad,Uttar Pradesh,Married
+PT0854,Male,1968-10-16,New Delhi,Delhi,Married
+PT0855,Male,1939-07-02,New Delhi,Delhi,Single
+PT0856,Male,1967-11-05,Ghaziabad,Uttar Pradesh,Married
+PT0857,Female,1963-02-02,New Delhi,Delhi,Single
+PT0858,Male,1926-02-04,Gurugram,Haryana,Married
+PT0859,Male,1981-08-31,Faridabad,Haryana,Married
+PT0860,Female,1992-10-15,Faridabad,Haryana,Married
+PT0861,Male,1968-02-27,Ghaziabad,Uttar Pradesh,Married
+PT0862,Female,1968-05-23,Ghaziabad,Uttar Pradesh,Single
+PT0863,Female,1987-08-18,Gurugram,Haryana,Married
+PT0864,Male,1997-09-06,Faridabad,Haryana,Single
+PT0865,Male,1931-01-01,Ghaziabad,Uttar Pradesh,Married
+PT0866,Male,1970-10-31,Faridabad,Haryana,Married
+PT0867,Female,1991-05-29,Faridabad,Haryana,Married
+PT0868,Male,1958-08-27,Ghaziabad,Uttar Pradesh,Married
+PT0869,Male,1979-10-07,Noida,Uttar Pradesh,Married
+PT0870,Female,1982-05-27,Gurugram,Haryana,Married
+PT0871,Male,1965-09-20,Noida,Uttar Pradesh,Married
+PT0872,Male,2002-09-14,New Delhi,Delhi,Single
+PT0873,Female,1969-12-01,Gurugram,Haryana,Single
+PT0874,Male,1938-10-04,Gurugram,Haryana,Married
+PT0875,Female,1967-05-05,Faridabad,Haryana,Married
+PT0876,Female,1984-09-02,Patna,Bihar,Single
+PT0877,Female,1987-10-26,Patna,Bihar,Single
+PT0878,Female,1985-03-31,Faridabad,Haryana,Single
+PT0879,Female,1982-08-15,Patna,Bihar,Widowed
+PT0880,Male,1984-04-09,Patna,Bihar,Single
+PT0881,Female,1958-06-09,Gurugram,Haryana,Married
+PT0882,Female,2011-06-28,Ghaziabad,Uttar Pradesh,Single
+PT0883,Male,1959-02-23,Noida,Uttar Pradesh,Single
+PT0884,Female,1984-01-15,Gurugram,Haryana,Widowed
+PT0885,Female,1969-10-16,Faridabad,Haryana,Married
+PT0886,Male,1999-02-04,Faridabad,Haryana,Widowed
+PT0887,Female,1950-10-13,Gurugram,Haryana,Single
+PT0888,Male,1952-09-29,New Delhi,Delhi,Married
+PT0889,Female,1957-07-16,Gurugram,Haryana,Married
+PT0890,Male,2007-10-25,New Delhi,Delhi,Single
+PT0891,Female,1960-10-18,Gurugram,Haryana,Married
+PT0892,Male,1968-10-01,Faridabad,Haryana,Married
+PT0893,Male,2009-04-05,Patna,Bihar,Single
+PT0894,Male,1977-06-29,Ghaziabad,Uttar Pradesh,Married
+PT0895,Male,1969-07-10,Faridabad,Haryana,Widowed
+PT0896,Male,1965-09-28,Patna,Bihar,Widowed
+PT0897,Male,1973-07-11,Patna,Bihar,Married
+PT0898,Male,1971-09-04,Gurugram,Haryana,Single
+PT0899,Male,1947-03-03,Gurugram,Haryana,Single
+PT0900,Female,1952-06-27,Patna,Bihar,Widowed
+PT0901,Female,2024-08-18,Gurugram,Haryana,Single
+PT0902,Female,1983-01-16,Gurugram,Haryana,Married
+PT0903,Male,1980-07-02,New Delhi,Delhi,Single
+PT0904,Female,2012-04-18,Ghaziabad,Uttar Pradesh,Married
+PT0905,Female,1975-07-06,Noida,Uttar Pradesh,Married
+PT0906,Female,1952-03-01,Faridabad,Haryana,Widowed
+PT0907,Male,1998-10-22,Noida,Uttar Pradesh,Married
+PT0908,Female,1970-01-16,New Delhi,Delhi,Married
+PT0909,Male,1995-04-26,Noida,Uttar Pradesh,Married
+PT0910,Female,1990-09-05,Gurugram,Haryana,Single
+PT0911,Female,1947-06-17,Faridabad,Haryana,Married
+PT0912,Male,1987-05-10,New Delhi,Delhi,Married
+PT0913,Male,1967-09-24,Noida,Uttar Pradesh,Married
+PT0914,Male,2014-10-18,Ghaziabad,Uttar Pradesh,Married
+PT0915,Female,1939-07-20,Patna,Bihar,Widowed
+PT0916,Female,1964-05-02,Noida,Uttar Pradesh,Married
+PT0917,Female,1980-02-29,Patna,Bihar,Married
+PT0918,Male,1965-11-12,Faridabad,Haryana,Married
+PT0919,Male,2005-01-05,New Delhi,Delhi,Single
+PT0920,Female,1953-07-29,Patna,Bihar,Single
+PT0921,Female,1983-08-02,Ghaziabad,Uttar Pradesh,Married
+PT0922,Female,1981-05-17,Patna,Bihar,Married
+PT0923,Male,1986-09-19,Noida,Uttar Pradesh,Widowed
+PT0924,Female,1988-09-24,Gurugram,Haryana,Married
+PT0925,Male,1963-07-31,New Delhi,Delhi,Married
+PT0926,Male,1971-05-20,Ghaziabad,Uttar Pradesh,Married
+PT0927,Male,1963-04-16,Patna,Bihar,Single
+PT0928,Male,1977-04-26,New Delhi,Delhi,Single
+PT0929,Female,1966-02-21,Noida,Uttar Pradesh,Married
+PT0930,Female,1985-05-12,Patna,Bihar,Married
+PT0931,Female,1932-08-17,Patna,Bihar,Married
+PT0932,Male,2008-04-08,Faridabad,Haryana,Married
+PT0933,Male,1951-07-01,New Delhi,Delhi,Married
+PT0934,Female,1949-09-22,Patna,Bihar,Married
+PT0935,Male,1994-08-16,Noida,Uttar Pradesh,Single
+PT0936,Male,1932-03-13,Ghaziabad,Uttar Pradesh,Married
+PT0937,Female,1957-03-12,Gurugram,Haryana,Married
+PT0938,Female,1957-12-22,Gurugram,Haryana,Married
+PT0939,Male,1976-09-21,Noida,Uttar Pradesh,Single
+PT0940,Male,1981-06-10,Patna,Bihar,Married
+PT0941,Male,1981-02-28,Faridabad,Haryana,Married
+PT0942,Female,1969-10-19,Noida,Uttar Pradesh,Married
+PT0943,Female,1948-10-17,Ghaziabad,Uttar Pradesh,Married
+PT0944,Male,1974-01-01,Noida,Uttar Pradesh,Single
+PT0945,Female,1995-06-25,Gurugram,Haryana,Married
+PT0946,Female,1960-02-02,Gurugram,Haryana,Married
+PT0947,Female,1958-06-04,Ghaziabad,Uttar Pradesh,Widowed
+PT0948,Male,1963-01-06,Gurugram,Haryana,Married
+PT0949,Female,1962-02-28,Ghaziabad,Uttar Pradesh,Married
+PT0950,Female,1982-05-04,New Delhi,Delhi,Single
+PT0951,Male,1995-04-05,Gurugram,Haryana,Married
+PT0952,Male,1994-09-10,New Delhi,Delhi,Married
+PT0953,Female,2009-04-08,Patna,Bihar,Married
+PT0954,Male,1972-03-11,Noida,Uttar Pradesh,Single
+PT0955,Female,1978-11-27,Faridabad,Haryana,Married
+PT0956,Female,1985-03-11,Patna,Bihar,Married
+PT0957,Female,2024-12-21,Noida,Uttar Pradesh,Married
+PT0958,Male,2001-07-12,Patna,Bihar,Married
+PT0959,Female,1954-08-07,Ghaziabad,Uttar Pradesh,Single
+PT0960,Male,1990-06-26,Noida,Uttar Pradesh,Married
+PT0961,Male,1969-02-20,Gurugram,Haryana,Widowed
+PT0962,Male,2004-02-19,Noida,Uttar Pradesh,Married
+PT0963,Female,1948-10-02,Ghaziabad,Uttar Pradesh,Married
+PT0964,Female,1979-06-20,New Delhi,Delhi,Married
+PT0965,Female,1971-03-19,Ghaziabad,Uttar Pradesh,Married
+PT0966,Male,1930-06-02,Patna,Bihar,Married
+PT0967,Female,1946-07-22,Patna,Bihar,Married
+PT0968,Male,1983-08-29,New Delhi,Delhi,Married
+PT0969,Male,1988-01-28,Ghaziabad,Uttar Pradesh,Married
+PT0970,Male,1983-10-26,Gurugram,Haryana,Single
+PT0971,Male,1966-09-06,New Delhi,Delhi,Single
+PT0972,Male,1979-10-17,Noida,Uttar Pradesh,Married
+PT0973,Female,1984-08-31,Noida,Uttar Pradesh,Single
+PT0974,Male,1947-01-16,Noida,Uttar Pradesh,Married
+PT0975,Female,1979-10-20,Gurugram,Haryana,Married
+PT0976,Male,1931-01-05,New Delhi,Delhi,Married
+PT0977,Female,1975-06-23,Gurugram,Haryana,Married
+PT0978,Male,1941-11-15,Patna,Bihar,Married
+PT0979,Male,1969-07-31,Noida,Uttar Pradesh,Married
+PT0980,Male,1957-07-04,Patna,Bihar,Widowed
+PT0981,Female,1991-06-06,Patna,Bihar,Married
+PT0982,Male,1994-11-10,Faridabad,Haryana,Married
+PT0983,Male,1967-02-04,Patna,Bihar,Married
+PT0984,Female,1957-12-13,Patna,Bihar,Married
+PT0985,Female,1976-05-28,Patna,Bihar,Married
+PT0986,Male,2002-07-25,Patna,Bihar,Married
+PT0987,Male,2004-07-26,Patna,Bihar,Widowed
+PT0988,Female,2005-10-13,New Delhi,Delhi,Widowed
+PT0989,Male,2012-06-16,New Delhi,Delhi,Married
+PT0990,Male,1974-07-31,Faridabad,Haryana,Married
+PT0991,Male,1954-05-02,Noida,Uttar Pradesh,Married
+PT0992,Male,1977-11-28,Patna,Bihar,Single
+PT0993,Female,2022-09-26,New Delhi,Delhi,Married
+PT0994,Female,1980-08-23,Noida,Uttar Pradesh,Married
+PT0995,Male,1980-12-07,Patna,Bihar,Married
+PT0996,Female,1935-07-05,Patna,Bihar,Married
+PT0997,Female,2006-01-03,Patna,Bihar,Married
+PT0998,Female,1984-10-30,Noida,Uttar Pradesh,Married
+PT0999,Male,1942-05-10,Ghaziabad,Uttar Pradesh,Married
+PT1000,Female,1968-10-01,Patna,Bihar,Married

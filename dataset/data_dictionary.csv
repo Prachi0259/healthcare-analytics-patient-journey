@@ -1,0 +1,31 @@
+table,column,type,description
+organizations,org_id,VARCHAR,Unique hospital identifier
+organizations,org_name,VARCHAR,Hospital name
+organizations,city,VARCHAR,Hospital city
+organizations,state,VARCHAR,Hospital state
+payers,payer_id,VARCHAR,Unique payer identifier
+payers,payer_name,VARCHAR,Insurer or scheme name
+payers,payer_type,VARCHAR,Government / Private / Self-Pay
+patients,patient_id,VARCHAR,Unique patient identifier
+patients,gender,VARCHAR,Patient gender
+patients,birth_date,DATE,Date of birth
+patients,city,VARCHAR,Patient city
+patients,state,VARCHAR,Patient state
+patients,marital_status,VARCHAR,Marital status
+encounters,encounter_id,VARCHAR,Unique encounter identifier (fact table PK)
+encounters,patient_id,VARCHAR,FK to patients
+encounters,org_id,VARCHAR,FK to organizations
+encounters,payer_id,VARCHAR,FK to payers
+encounters,encounter_class,VARCHAR,Visit type (ambulatory/outpatient/wellness/urgentcare/emergency/inpatient)
+encounters,start_datetime,DATETIME,Encounter start
+encounters,stop_datetime,DATETIME,Encounter end
+encounters,base_cost,DECIMAL,Base facility cost (INR)
+encounters,total_claim_cost,DECIMAL,Base cost plus procedure costs (INR)
+encounters,payer_coverage,DECIMAL,Amount covered by payer (INR); 0 means uncovered
+encounters,los_hours,DECIMAL,Length of stay in hours
+procedures,procedure_id,VARCHAR,Unique procedure identifier
+procedures,encounter_id,VARCHAR,FK to encounters
+procedures,patient_id,VARCHAR,FK to patients
+procedures,procedure_code,VARCHAR,Internal procedure code
+procedures,procedure_desc,VARCHAR,Procedure description
+procedures,cost,DECIMAL,Procedure cost (INR)

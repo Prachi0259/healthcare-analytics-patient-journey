@@ -1,1 +1,11 @@
-
+payer_id,payer_name,payer_type
+PAY01,PMJAY (Ayushman Bharat),Government
+PAY02,CGHS,Government
+PAY03,Star Health,Private
+PAY04,HDFC Ergo,Private
+PAY05,ICICI Lombard,Private
+PAY06,Niva Bupa,Private
+PAY07,Care Health,Private
+PAY08,New India Assurance,Government
+PAY09,Tata AIG,Private
+PAY10,Self-Pay,Self-Pay
